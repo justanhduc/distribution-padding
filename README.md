@@ -3,8 +3,8 @@
 This is the official implementation of the ICIP paper "DISTRIBUTION PADDING IN CONVOLUTIONAL NEURAL NETWORKS".
 
  <p align='center'>
-  <img src='imgs/lena_small.jpg' width="140px">
-  <img src='imgs/lena_dist_padded.jpg' width="140px">
+  <img src='imgs/lena_small.png' width="200px">
+  <img src='imgs/lena_dist_padded.jpg' width="200px">
 </p>
 
 ## Environment
@@ -43,8 +43,8 @@ However, it will require some modification as the op does not accept symbolic va
  ## Results
  
  <p align='center'>
-  <img src='imgs/resnet_errors_magnified.png' width="140px">
-  <img src='imgs/vgg_errors_magnified.png' width="140px">
+  <img src='imgs/resnet_errors_magnified.png' width="300px">
+  <img src='imgs/vgg_errors_magnified.png' width="300px">
 </p>
  
  ## Citation
