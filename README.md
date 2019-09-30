@@ -49,7 +49,22 @@ However, it will require some modification as the op does not accept symbolic va
  
  ## Citation
  
- __COMING SOON__
+ If you find this code helpful for your research, please consider citing the work
+
+```
+@INPROCEEDINGS{DistPaddingNguyen2019,
+author={A. {Nguyen} and S. {Choi} and W. {Kim} and S. {Ahn} and J. {Kim} and S. {Lee}},
+booktitle={2019 IEEE International Conference on Image Processing (ICIP)},
+title={Distribution Padding in Convolutional Neural Networks},
+year={2019},
+volume={},
+number={},
+pages={4275-4279},
+keywords={Deep learning;convolutional neural network;image padding},
+doi={10.1109/ICIP.2019.8803537},
+ISSN={},
+month={Sep.},}
+```
  
  ## References
  
